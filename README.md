@@ -41,8 +41,8 @@
   
   <p float="left" align-items="center">
     <img>Sou um profissional apaixonado pela área tecnológica, </br>tenho 25 anos, morador do Rio de Janeiro e</br>atuante na área de desenvolvimento fron-end e back-end</br>A tecnologia será ferramenta de solução da desigualdade.</img>
-    <img heigth="300px" 
-       Width="300px"
+    <img heigth="350px" 
+       Width="350px"
        style="max-width:100%"
        align="center" src="https://inovan.do/wp-content/uploads/2020/01/mobile-app-development.png" />
   </p>

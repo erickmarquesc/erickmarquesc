@@ -47,3 +47,6 @@
        align="center" src="https://inovan.do/wp-content/uploads/2020/01/mobile-app-development.png" />
   </p>
   
+<p>
+ Procuro me desenvolver de forma multidisciplinar,</br> repleto de grandes ideias e forte personalidade,</br> guiado pelo desejo de construir experiências significativas e de valor.</br> Movido pela criatividade e a vontade de inovar,</br> vejo desafios como uma oportunidade de trazer algo de melhor para o mundo.
+ </p>

@@ -40,7 +40,7 @@
 ### Fala DEV 👋 <svg viewBox="0 0 128 128"><a href="https://www.linkedin.com/in/erick-marques-cabral-999b151b4/"><img align="center" heigth="20" Width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
   
   <p float="left" align-items="center">
-    <img>Sou um profissional apaixonado pela área tecnológica, </br>tenho 25 anos, morador do Rio de Janeiro e</br>atuante na área de desenvolvimento fron-end e back-end e também sou UX / UI</br>A tecnologia será ferramenta de solução da desigualdade.</img>
+    <img>Sou um profissional apaixonado pela área tecnológica, </br>tenho 26 anos, morador do Rio de Janeiro e</br>atuante na área de desenvolvimento fron-end e back-end e também sou UX / UI</br>A tecnologia será ferramenta de solução da desigualdade.</img>
     <img heigth="350px" 
        Width="350px"
        style="max-width:100%"

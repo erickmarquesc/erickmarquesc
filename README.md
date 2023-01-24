@@ -14,7 +14,7 @@
  - 📫Tenho 26 anos, morador do Rio de Janeiro
  - ⚡Desenvolvedor fron-end e UI Designer
  - 👯Procuro me desenvolver de forma multidisciplinar
- - 🔭Guiado pelo desejo de construir experiências significativas e de valor
+ - 🔭Guiado pelo desejo de construir experiências significativas
  - 🤖Movido pela criatividade e a vontade de inovar
- - 💬Desafios são uma oportunidade de trazer algo de melhor para o mundo.
+ - 💬Desafios são uma oportunidade de trazer algo de melhor para o mundo
  

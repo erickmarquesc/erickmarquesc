@@ -1,6 +1,6 @@
 <p align="center">
  <img heigth="150" Width="150" style="max-width:100%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">I'm Erick Marques Cabral</h2>
+ <h3 align="center">I'm Erick Marques Cabral</h3>
  <h3 align="center">A tecnologia será ferramenta de solução da desigualdade.</h3>
 
 <h1 align="left">

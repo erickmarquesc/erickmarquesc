@@ -11,12 +11,10 @@
  </a>
 </h1>
 
- 
-<p>
  - 🔥Sou um profissional apaixonado pela área tecnológica
  - 📫Tenho 26 anos, morador do Rio de Janeiro
  - ⚡Desenvolvedor fron-end e sou UI Designer
-</p>
+
  
  <h1>
  <b>A tecnologia será ferramenta de solução da desigualdade.<b>

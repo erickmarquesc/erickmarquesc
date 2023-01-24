@@ -1,6 +1,7 @@
 <p align="center">
  <img heigth="150" Width="150" style="max-width:100%" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">I'm Erick Marques Cabral</h2>
+ <h3 align="center">A tecnologia será ferramenta de solução da desigualdade.</h3>
 
 <h1 align="left">
  Fala DEV 
@@ -13,13 +14,9 @@
 
  - 🔥Sou um profissional apaixonado pela área tecnológica
  - 📫Tenho 26 anos, morador do Rio de Janeiro
- - ⚡Desenvolvedor fron-end e sou UI Designer
-
+ - ⚡Desenvolvedor fron-end e UI Designer
+ - 👯Procuro me desenvolver de forma multidisciplinar
+ - 🔭Guiado pelo desejo de construir experiências significativas e de valor
+ - 🤖Movido pela criatividade e a vontade de inovar
+ - 💬Desafios são uma oportunidade de trazer algo de melhor para o mundo.
  
- <h1>
- <b>A tecnologia será ferramenta de solução da desigualdade.<b>
- </h1>
-  
-<p>
- Procuro me desenvolver de forma multidisciplinar,</br> repleto de grandes ideias e forte personalidade,</br> guiado pelo desejo de construir experiências significativas e de valor.</br> Movido pela criatividade e a vontade de inovar,</br> vejo desafios como uma oportunidade de trazer algo de melhor para o mundo.
- </p>

@@ -13,7 +13,7 @@
 </h1>
 
  - 🔥Sou um profissional apaixonado pela área tecnológica
- - 📫Tenho 26 anos, morador do Rio de Janeiro
+ - 📫Morador do Rio de Janeiro
  - ⚡Desenvolvedor fron-end e UI Designer
  - 👯Procuro me desenvolver de forma multidisciplinar
  - 🔭Guiado pelo desejo de construir experiências significativas

@@ -18,9 +18,6 @@
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="Instagram"/>
 </a>
 
-<a href="https://www.linkedin.com/in/erick-marques-cabral-999b151b4/" target="_blank">
+<a href="https://www.linkedin.com/in/erickmarquescabral/" target="_blank">
   <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
 </a>
-
-
-

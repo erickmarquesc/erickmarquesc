@@ -1,5 +1,5 @@
 <a href="https://dev-links-bay.vercel.app/">
-<img align="right" src="./.github/marqueserick.jpg">
+<img align="right" Width="400" src="./.github/marqueserick.jpg">
 </a>
 <h3 align="center">I'm Erick Marques Cabral
 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"/>

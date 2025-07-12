@@ -13,7 +13,14 @@
  - 🔥Sou um profissional apaixonado pela área tecnológica
  - 🔭Guiado pelo desejo de construir experiências significativas
  - 💬Desafios são uma oportunidade de trazer algo de melhor para o mundo
- 
-<a href="https://www.linkedin.com/in/erick-marques-cabral-999b151b4/">
-  <img align="center" heigth="20" Width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+
+ <a href="https://www.instagram.com/erickmarques_c/" target="_blank">
+  <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Instagram.svg" alt="Instagram"/>
 </a>
+
+<a href="https://www.linkedin.com/in/erick-marques-cabral-999b151b4/" target="_blank">
+  <img align="center" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn"/>
+</a>
+
+
+
